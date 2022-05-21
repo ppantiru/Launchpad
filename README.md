@@ -1,2 +1,2 @@
 # Launchpad
-Client-server streamdeck like app for use with tablets-pc.
+Turns your tablet/phone into an "elgato stream deck"
